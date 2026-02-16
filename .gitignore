@@ -1,0 +1,29 @@
+# Gradle files
+/.gradle/
+/build/
+*/build/
+
+# Local configuration file (sdk path, etc)
+.local.properties
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Misc
+.DS_Store
+*.log
+*.hprof
+*.hprof.*
+*.apk
+*.ap_\n*.dex
+*.class
+*.jar
+*.war
+*.ear
+
+# Kotlin
+*.kotlin_metadata
+
+# JetBrains specific files
+.idea/
+*.iml
